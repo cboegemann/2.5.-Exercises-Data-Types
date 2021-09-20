@@ -1,0 +1,13 @@
+/Users/christineboegemann/Desktop/coding_lessons/LC101/csharp-practice/chapter1/Exercise/Exercise/Exercise/bin/Debug/netcoreapp3.1/Exercise.deps.json
+/Users/christineboegemann/Desktop/coding_lessons/LC101/csharp-practice/chapter1/Exercise/Exercise/Exercise/bin/Debug/netcoreapp3.1/Exercise.runtimeconfig.json
+/Users/christineboegemann/Desktop/coding_lessons/LC101/csharp-practice/chapter1/Exercise/Exercise/Exercise/bin/Debug/netcoreapp3.1/Exercise.runtimeconfig.dev.json
+/Users/christineboegemann/Desktop/coding_lessons/LC101/csharp-practice/chapter1/Exercise/Exercise/Exercise/bin/Debug/netcoreapp3.1/Exercise.dll
+/Users/christineboegemann/Desktop/coding_lessons/LC101/csharp-practice/chapter1/Exercise/Exercise/Exercise/bin/Debug/netcoreapp3.1/Exercise.pdb
+/Users/christineboegemann/Desktop/coding_lessons/LC101/csharp-practice/chapter1/Exercise/Exercise/Exercise/obj/Debug/netcoreapp3.1/Exercise.csproj.AssemblyReference.cache
+/Users/christineboegemann/Desktop/coding_lessons/LC101/csharp-practice/chapter1/Exercise/Exercise/Exercise/obj/Debug/netcoreapp3.1/Exercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/christineboegemann/Desktop/coding_lessons/LC101/csharp-practice/chapter1/Exercise/Exercise/Exercise/obj/Debug/netcoreapp3.1/Exercise.AssemblyInfoInputs.cache
+/Users/christineboegemann/Desktop/coding_lessons/LC101/csharp-practice/chapter1/Exercise/Exercise/Exercise/obj/Debug/netcoreapp3.1/Exercise.AssemblyInfo.cs
+/Users/christineboegemann/Desktop/coding_lessons/LC101/csharp-practice/chapter1/Exercise/Exercise/Exercise/obj/Debug/netcoreapp3.1/Exercise.csproj.CoreCompileInputs.cache
+/Users/christineboegemann/Desktop/coding_lessons/LC101/csharp-practice/chapter1/Exercise/Exercise/Exercise/obj/Debug/netcoreapp3.1/Exercise.dll
+/Users/christineboegemann/Desktop/coding_lessons/LC101/csharp-practice/chapter1/Exercise/Exercise/Exercise/obj/Debug/netcoreapp3.1/Exercise.pdb
+/Users/christineboegemann/Desktop/coding_lessons/LC101/csharp-practice/chapter1/Exercise/Exercise/Exercise/obj/Debug/netcoreapp3.1/Exercise.genruntimeconfig.cache

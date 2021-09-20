@@ -1,0 +1,13 @@
+/Users/christineboegemann/Desktop/coding_lessons/LC101/csharp-practice/chapter1/Exercise/Exercise/NumericTypes/bin/Debug/netcoreapp3.1/NumericTypes.deps.json
+/Users/christineboegemann/Desktop/coding_lessons/LC101/csharp-practice/chapter1/Exercise/Exercise/NumericTypes/bin/Debug/netcoreapp3.1/NumericTypes.runtimeconfig.json
+/Users/christineboegemann/Desktop/coding_lessons/LC101/csharp-practice/chapter1/Exercise/Exercise/NumericTypes/bin/Debug/netcoreapp3.1/NumericTypes.runtimeconfig.dev.json
+/Users/christineboegemann/Desktop/coding_lessons/LC101/csharp-practice/chapter1/Exercise/Exercise/NumericTypes/bin/Debug/netcoreapp3.1/NumericTypes.dll
+/Users/christineboegemann/Desktop/coding_lessons/LC101/csharp-practice/chapter1/Exercise/Exercise/NumericTypes/bin/Debug/netcoreapp3.1/NumericTypes.pdb
+/Users/christineboegemann/Desktop/coding_lessons/LC101/csharp-practice/chapter1/Exercise/Exercise/NumericTypes/obj/Debug/netcoreapp3.1/NumericTypes.csproj.AssemblyReference.cache
+/Users/christineboegemann/Desktop/coding_lessons/LC101/csharp-practice/chapter1/Exercise/Exercise/NumericTypes/obj/Debug/netcoreapp3.1/NumericTypes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/christineboegemann/Desktop/coding_lessons/LC101/csharp-practice/chapter1/Exercise/Exercise/NumericTypes/obj/Debug/netcoreapp3.1/NumericTypes.AssemblyInfoInputs.cache
+/Users/christineboegemann/Desktop/coding_lessons/LC101/csharp-practice/chapter1/Exercise/Exercise/NumericTypes/obj/Debug/netcoreapp3.1/NumericTypes.AssemblyInfo.cs
+/Users/christineboegemann/Desktop/coding_lessons/LC101/csharp-practice/chapter1/Exercise/Exercise/NumericTypes/obj/Debug/netcoreapp3.1/NumericTypes.csproj.CoreCompileInputs.cache
+/Users/christineboegemann/Desktop/coding_lessons/LC101/csharp-practice/chapter1/Exercise/Exercise/NumericTypes/obj/Debug/netcoreapp3.1/NumericTypes.dll
+/Users/christineboegemann/Desktop/coding_lessons/LC101/csharp-practice/chapter1/Exercise/Exercise/NumericTypes/obj/Debug/netcoreapp3.1/NumericTypes.pdb
+/Users/christineboegemann/Desktop/coding_lessons/LC101/csharp-practice/chapter1/Exercise/Exercise/NumericTypes/obj/Debug/netcoreapp3.1/NumericTypes.genruntimeconfig.cache
